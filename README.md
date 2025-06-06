@@ -7,11 +7,9 @@ In this project, the code loads a list of FEN (Forsyth–Edwards Notation) strin
 
 ## Directory Structure
 
-* project/
-* │
-* ├──* ``fen_stockfish.ipynb``             # Jupyter notebook.
-* ├── ``environment.yml``                 # For setting up with Conda.
-* ├── ``requirements.text``               # For installing dependencies with pip.
-* ├── ``stockfish.exe``                   # Stockfish binary (Windows example)
-* └── ``README.md``                           # You're here
+* ``fen_stockfish.ipynb``             # Jupyter notebook.
+* ``environment.yml``                 # For setting up with Conda.
+* ``requirements.text``               # For installing dependencies with pip.
+* ``stockfish.exe``                   # Stockfish binary (Windows example)
+* ``README.md``                       # You're here
 
