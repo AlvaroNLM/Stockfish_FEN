@@ -1,0 +1,5 @@
+data_src/
+data_dst/
+backup/
+fens.txt
+stockfish_13_win_x64.exe
