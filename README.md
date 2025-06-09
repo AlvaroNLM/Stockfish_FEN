@@ -2,8 +2,8 @@
 
 In this project, the code loads a list of FEN (Forsyth–Edwards Notation) strings, evaluates each position using the Stockfish engine, and returns:
 
-* The evaluation of the position
-* The best move suggested by Stockfish
+* The position evaluation.
+* The best move suggested by Stockfish.
 
 ## Directory Structure
 
